@@ -1,0 +1,21 @@
+{
+  "name": "skillset-os",
+  "version": "1.1.0",
+  "displayName": "Skillset-OS",
+  "description": "One skill holding nested skillsets: software engineering, personal growth, people skills, thinking tools and in-chat apps, with tools to extend and sync it.",
+  "author": {
+    "name": "Andrew Wright",
+    "url": "https://github.com/Softmonster"
+  },
+  "homepage": "https://github.com/Softmonster/skillset-os-plugin",
+  "repository": "https://github.com/Softmonster/skillset-os-plugin",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "skillset",
+    "software-development",
+    "productivity",
+    "coaching",
+    "communication"
+  ]
+}
